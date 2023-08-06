@@ -1,4 +1,6 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
+## Github link: https://github.com/alturkim/build-ml-pipeline-for-short-term-rental-prices 
+## WandB Project link: https://wandb.ai/alturkim/nyc_airbnb/
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
 on the price of similar properties. Your company receives new data in bulk every week. The model needs 
