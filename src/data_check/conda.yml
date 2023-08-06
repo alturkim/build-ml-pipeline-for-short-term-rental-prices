@@ -1,11 +1,11 @@
 name: data_check
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - pandas=1.1.4
-  - pytest=6.2.2
-  - scipy=1.5.2
-  - pip=20.3.3
+  - python=3.8.17
+  - pip=23.1.2
   - pip:
-      - wandb==0.10.21
+      - wandb==0.15.5
+      - pandas==2.0.3
+      - pytest==7.4.0
+      - scipy==1.10.1
