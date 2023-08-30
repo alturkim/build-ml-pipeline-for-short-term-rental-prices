@@ -1,6 +1,6 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 ## Links
-- [Project Blog Post](https://github.com/alturkim/build-ml-pipeline-for-short-term-rental-prices](https://alturkim.github.io/project/blogpost/2023/08/15/MLOPS-P2.html)
+- [Project Blog Post](https://alturkim.github.io/project/blogpost/2023/08/15/MLOPS-P2.html/).
 - [WandB Project link](https://wandb.ai/alturkim/nyc_airbnb/)
 
 ## Introduction
