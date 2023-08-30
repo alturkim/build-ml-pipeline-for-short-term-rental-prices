@@ -1,7 +1,7 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 ## Links
 - [Project Blog Post](https://alturkim.github.io/project/blogpost/2023/08/15/MLOPS-P2.html).
-- [WandB Project link](https://wandb.ai/alturkim/nyc_airbnb/)
+- [WandB Project link](https://wandb.ai/alturkim/nyc_airbnb/).
 
 ## Introduction
 This project builds an end-to-end reproducible Machine Learning pipeline to predict prices of rental properties based on various features. The pipeline is constructed to allow for component to be run independently from each other.
